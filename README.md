@@ -1,4 +1,4 @@
-# Desafio do módulo 3 – Processamento de Dados Simplificado com Power BI
+# Desafio do Módulo 3 – Processamento de Dados Simplificado com Power BI
 
 1. Criação de uma instância na Azure para MySQL
 
